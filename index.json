@@ -1,1 +1,25 @@
-a
+{
+  "kütüphane": [
+    {
+      "ad": "harry potter",
+      "yazarlar": [
+        "ahmet yılmaz (ö)",
+        "mehmet kaya",
+        "zeynep arslan"
+      ]
+    },
+    {
+      "ad": "simyacı",
+      "yazarlar": [
+        "fatma demir (ö)",
+        "ali veli"
+      ]
+    },
+    {
+      "ad": "interstellar",
+      "yazarlar": [
+        "can öztürk"
+      ]
+    }
+  ]
+}
